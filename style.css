@@ -1,0 +1,55 @@
+.width-style {
+  height:50px;
+  float: right;
+}
+.side-img {
+  float: none;
+  height:100px;
+  width: 100px;
+  length :50px;
+  padding: 1px ;
+}
+.side-img2{
+
+  height:100px;
+  width: 100px;
+  length :50px;
+  opacity: .2;
+}
+.primary-btn{
+  color: red;
+  background-color: #8845f4
+  padding: 20px 30px 40px 30px;
+  border-radius: 50px;
+  text-decoration:none;
+  
+}
+.width-style2{
+  float: none;
+  color: #093456
+}
+h1{
+  font-size:1.5em;
+  color: #700789;
+}
+h2{
+  color: #507f90 ;
+}
+.exper-item{
+  border-left: 1px solid rgba(30,40 ,70,.5);
+  padding : 30px;
+}
+.purple-color{
+  color:purple;
+  font-family: monaco;
+}
+h3{
+  color: #593212;
+  font-size: 50px;
+  font-family: cursive;
+}
+h4{
+  color: yellow;
+  font-family: monospace;
+  font-size: 30px;
+}
