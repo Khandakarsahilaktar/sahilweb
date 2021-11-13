@@ -4,15 +4,15 @@
 }
 .side-img {
   float: none;
-  height:100px;
-  width: 100px;
+  height:200px;
+  width: 200px;
   length :50px;
   padding: 1px ;
 }
 .side-img2{
 
-  height:100px;
-  width: 100px;
+  height:180px;
+  width: 180px;
   length :50px;
   opacity: .2;
 }
